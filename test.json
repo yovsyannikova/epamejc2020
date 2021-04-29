@@ -1,11 +1,5 @@
 {
     "name": "ServiceName",
-    "aliases": ["alias"],
-    "team": "team",
-    "hosts": {
-        "hostName": "host"
-    },
-    "defaultHost": "defaultHost",
     "links": [
         {
             "name": "linkName",
